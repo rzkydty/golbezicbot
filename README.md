@@ -107,4 +107,4 @@ webpmux -version
 * [`Hexa`](https://github.com/Hexagonz)
 * [`Slavyan`](https://github.com/SlavyanDesu)
 * [`Galang`](https://github.com/Zobin33)
-* [`Franky`](https://github.com/Frankysol
+* [`Franky`](https://github.com/Frankysol) 
