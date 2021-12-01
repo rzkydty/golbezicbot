@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://telegra.ph/file/9b873234a9cc47a5916ae.jpg" alt="NinoBot" width="500" />
+<img src="https://telegra.ph/file/fc0016226d8fa53ed3b8c.jpg" alt="GolbezicBot" width="500" />
 
-# NinoBot
+# GolbezicBot
 
-> NinoBot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
+> GolbezicBot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
 >
 >
 
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nino-chan02"><img title="Author" src="https://img.shields.io/badge/Author-Marz-purple.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/rzkydty"><img title="Author" src="https://img.shields.io/badge/Author-Marz-purple.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
 <a href="https://github.com/Nino-chan02/followers"><img title="Followers" src="https://img.shields.io/github/followers/Nino-chan02?color=blue&style=flat-square"></a>
@@ -27,10 +27,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nino-chan02/NinoWangy#requirements">Requirements</a> •
-  <a href="https://github.com/Nino-chan02/NinoWangy#instalasi">Installation</a> •
-  <a href="https://github.com/Nino-chan02/NinoWangy#features">Features</a> •
-  <a href="https://github.com/Nino-chan02/NinoWangy#thanks-to">Thanks to</a>
+  <a href="https://github.com/rzkydty/golbezicbot#requirements">Requirements</a> •
+  <a href="https://github.com/rzkydty/golbezicbot#instalasi">Installation</a> •
+  <a href="https://github.com/rzkydty/golbezicbot#features">Features</a> •
+  <a href="https://github.com/rzkydty/golbezicbot#thanks-to">Thanks to</a>
 </p>
 </div>
 
@@ -49,8 +49,8 @@
 # Instalasi
 ## For Windows
 ```bash
-git clone https://github.com/Nino-chan02/NinoWangy
-cd NinoWangy
+git clone https://github.com/rzkydtt/golbezicbot
+cd golbezicbot
 npm install
 node main
 ```
@@ -59,8 +59,8 @@ node main
 termux-setup-storage
 pkg update && pkg upgrade
 pkg install nodejs git ffmpeg libwebp 
-git clone https://github.com/Nino-chan02/NinoWangy
-cd NinoWangy
+git clone https://github.com/rzkydty/golbezicbot
+cd golbezicbot
 npm install
 node main
 ```
@@ -107,11 +107,4 @@ webpmux -version
 * [`Hexa`](https://github.com/Hexagonz)
 * [`Slavyan`](https://github.com/SlavyanDesu)
 * [`Galang`](https://github.com/Zobin33)
-* [`Franky`](https://github.com/Frankysolo)
-# golbezicbot
-# golbezicbot
-# golbezicbot
-# kyy25
-# kyy25
-# kyy25
-# kyy25
+* [`Franky`](https://github.com/Frankysol
